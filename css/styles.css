@@ -231,6 +231,17 @@ footer a {
     text-decoration: none;
 }
 
+/*tablet Viewport: style rules for footer area */
+.copyright {
+    float: left;
+    width: 65%;
+}
+
+.socail {
+    float: right;
+    width: 25%;
+}
+
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 550px), print {
     
